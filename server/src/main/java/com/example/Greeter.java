@@ -1,4 +1,4 @@
-/*This is sample package jn*/
+/*This is sample package jenkins*/
 
 package com.example;
 
